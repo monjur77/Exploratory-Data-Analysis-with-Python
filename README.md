@@ -1,4 +1,5 @@
 # Exploratory-Data-Analysis-with-Python
 <br>
-It's a basic exploratory data analysis with tips dataset. Hope you will like it. Thanks.
+It's a basic exploratory data analysis with tips dataset. I hope you'll like it. Thanks.
+<br>
 --Monjur Rahman
